@@ -30,7 +30,7 @@ type checking and rejects calling it with arguments. The fix is a typed function
 with the correct signature.
 
 Pre-compiled binaries exist (e.g. [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits)) but do not support
-custom commands and cannot be verified without source.
+custom commands.
 
 ---
 
