@@ -34,19 +34,6 @@ custom commands and cannot be verified without source.
 
 ---
 
-## Affected versions
-
-Windows x86 (32-bit):
-- Windows XP SP3
-- Windows Vista SP1 / SP2
-- Windows Server 2003 SP2
-- Windows Server 2008 SP2
-- Windows 7
-
-Not affected: x64, Windows 7 SP1+, Server 2008 R2+.
-
----
-
 ## Cross-compile on Linux (MinGW)
 
 ```bash
